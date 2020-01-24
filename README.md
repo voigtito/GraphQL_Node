@@ -12,4 +12,6 @@
      <li>Overfitting no backend, ou seja, trazer informações desnecessárias de dentro do componente.</li> 
 </ul>
 
-
+<h3><i>IN PROGRESS..</i></h3>
+- [X] Criando Conceito Geral
+- [ ] Criando Conexão com o Banco
